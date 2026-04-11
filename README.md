@@ -56,8 +56,10 @@ Servername: localhost,36064 (với xxxxx là cổng đã chọn ở bước 2)
 15. Sử dụng giao diện đồ hoạ của ssms: Xoá csdl đã tạo, sau khi xoá thành công, kiểm tra tại path (path chọn ở bước 6) xem còn tồn tại 2 file của bước 6 không? 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/099acd06-965a-4e68-bdcb-1ebad6f47222" />
 
---> Sau khi xóa csdl đã tạo thì 2 file của bước 6 đã bị mất đi.
+--> Sau khi xóa csdl đã tạo thì 2 file của bước 6 đã bị mất đi.<br>
 16. Tạo cửa sổ mới để gõ lệnh: mở file **dulieu.sql** của bước 14, chạy toàn bộ các lệnh này. REFRESH lại cây liệt kê các database => kiểm chứng kết quả được tạo ra tương đương với các bước 6,7,8,9,10,11,12,13.
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ca1e4c4f-d679-4bd5-8d92-ac6320decb0b" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9fb06ba6-cd6f-4ce0-b127-a2a687bab11d" />
 
-17. upload file **dulieu.sql** lên github repository của em (repository mà em đang edit file README.md)
+17. upload file **dulieu.sql** lên github repository của em.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/910e4a45-50c8-4b8d-b155-4bcbf2bf5220" />
